@@ -10,5 +10,5 @@ Another method to account for motion outliers can the inclusion of a confound ma
 Steps:
 1. Caclulate motion outliers per session per participant (use script ComputeMotionOutlier.txt).
 3. Average motion outlier values per person (this is stored here in PTandHCMO.csv. Each column has the motion outliers for all participants for all their sessions).
-4. Covary the motion outliers with results (use script MotionCorrelatedWithPEandFA.mlx).
+4. Covary the motion outliers with results (use script MotionCorrelatedWithPEandFA_v3.mlx).
 
