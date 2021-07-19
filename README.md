@@ -1,6 +1,12 @@
 # ComputingMotionOutliers
 NOTE: this repo is under construction
+
 This repo shows how global motion can be covaried with group-level results calculated via FSL
+
+Rationale:
+This is ok to do because
+
+Note- this is NOT NECESSARY with FSL. 
 
 
 Steps:
