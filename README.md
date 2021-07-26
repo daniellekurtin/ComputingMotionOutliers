@@ -11,5 +11,5 @@ We have adapted this last method to assess the influence of global motion. We us
 Steps:
 1. Caclulate DVARS per session per participant (use script CalcDVARS.sh).
 2. Average DVARS values per person (this is stored here in PTandHCMO.csv. Each column has the DVARS for all participants for all their sessions).
-3. Covary the averaged DVARS with results (use script MotionCorrelatedWithPEandFA_v3.mlx).
+3. Covary the averaged DVARS with results (use script DVARSCorrelatedWithPEandFA.mlx).
 
